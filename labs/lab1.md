@@ -52,7 +52,7 @@ node_modules
   "docker-stop": "docker stop vue-lab-1-instance && docker rm vue-lab-1-instance",
 }
 ```
-10. Розмістіть ваш проект в публічному GitHub/GitLab/Bitbucket з назвою `<vendor>/mjsf-mag` та додайте посилання на репозиторій у звіті виконавши наступні команди:
+10. Розмістіть ваш проект в директорії `lab1` публічномого репозиторію GitHub/GitLab/Bitbucket з назвою `<vendor>/mjsf-mag` та додайте посилання на репозиторій у звіт виконавши наступні команди:
 ```bash
 git init
 git add .
