@@ -20,7 +20,7 @@
  ```bash
   #Встановіть та налаштуйте Tailwind CSS відповідно до офіційної документації:
   npm install -D tailwindcss postcss autoprefixer
-  npx tailwindcss init
+  npx tailwindcss init -p
   ```
 
 2. Налаштувати `tailwind.config.js` за необхідноті.
